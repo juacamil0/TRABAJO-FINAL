@@ -1,0 +1,14 @@
+C:\Users\melon\Desktop\Codigo completo JC y JJ\Codigo completo JC y JJ\bin\Debug\net8.0\Codigo completo JC y JJ.exe
+C:\Users\melon\Desktop\Codigo completo JC y JJ\Codigo completo JC y JJ\bin\Debug\net8.0\Codigo completo JC y JJ.deps.json
+C:\Users\melon\Desktop\Codigo completo JC y JJ\Codigo completo JC y JJ\bin\Debug\net8.0\Codigo completo JC y JJ.runtimeconfig.json
+C:\Users\melon\Desktop\Codigo completo JC y JJ\Codigo completo JC y JJ\bin\Debug\net8.0\Codigo completo JC y JJ.dll
+C:\Users\melon\Desktop\Codigo completo JC y JJ\Codigo completo JC y JJ\bin\Debug\net8.0\Codigo completo JC y JJ.pdb
+C:\Users\melon\Desktop\Codigo completo JC y JJ\Codigo completo JC y JJ\obj\Debug\net8.0\Codigo completo JC y JJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melon\Desktop\Codigo completo JC y JJ\Codigo completo JC y JJ\obj\Debug\net8.0\Codigo completo JC y JJ.AssemblyInfoInputs.cache
+C:\Users\melon\Desktop\Codigo completo JC y JJ\Codigo completo JC y JJ\obj\Debug\net8.0\Codigo completo JC y JJ.AssemblyInfo.cs
+C:\Users\melon\Desktop\Codigo completo JC y JJ\Codigo completo JC y JJ\obj\Debug\net8.0\Codigo completo JC y JJ.csproj.CoreCompileInputs.cache
+C:\Users\melon\Desktop\Codigo completo JC y JJ\Codigo completo JC y JJ\obj\Debug\net8.0\Codigo completo JC y JJ.dll
+C:\Users\melon\Desktop\Codigo completo JC y JJ\Codigo completo JC y JJ\obj\Debug\net8.0\refint\Codigo completo JC y JJ.dll
+C:\Users\melon\Desktop\Codigo completo JC y JJ\Codigo completo JC y JJ\obj\Debug\net8.0\Codigo completo JC y JJ.pdb
+C:\Users\melon\Desktop\Codigo completo JC y JJ\Codigo completo JC y JJ\obj\Debug\net8.0\Codigo completo JC y JJ.genruntimeconfig.cache
+C:\Users\melon\Desktop\Codigo completo JC y JJ\Codigo completo JC y JJ\obj\Debug\net8.0\ref\Codigo completo JC y JJ.dll
